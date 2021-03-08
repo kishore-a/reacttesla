@@ -4,5 +4,7 @@
   "packagerPort": 19000,
   "expoServerNgrokUrl": "https://p9-7nr.kishore-shankar20.reacttesla.exp.direct",
   "packagerNgrokUrl": "https://packager.p9-7nr.kishore-shankar20.reacttesla.exp.direct",
-  "ngrokPid": 10873
+  "ngrokPid": 21581,
+  "packagerPid": null,
+  "webpackServerPort": null
 }
