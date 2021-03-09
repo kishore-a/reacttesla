@@ -5,6 +5,7 @@ const styles = StyleSheet.create({
         padding: 10,
         width:'100%',
         
+        
     },
     buttons:{
         backgroundColor:'white',
@@ -14,7 +15,8 @@ const styles = StyleSheet.create({
         borderRadius:35
     },
     content:{
-        fontSize:20,
+        fontSize:15,
+        fontFamily:'sans-serif'
 
     }
 

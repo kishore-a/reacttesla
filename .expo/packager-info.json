@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19000,
+  "expoServerPort": 19003,
+  "packagerPort": 19003,
   "expoServerNgrokUrl": "https://p9-7nr.kishore-shankar20.reacttesla.exp.direct",
   "packagerNgrokUrl": "https://packager.p9-7nr.kishore-shankar20.reacttesla.exp.direct",
-  "ngrokPid": 21581,
+  "ngrokPid": 34329,
   "packagerPid": null,
   "webpackServerPort": null
 }
